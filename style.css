@@ -1,0 +1,57 @@
+*
+{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+html
+{
+    scroll-behavior: smooth;
+}
+.navbar
+{
+    background-color: #AB125A;
+}
+.nav-link
+{
+    color:#ECF0F1;
+}
+.navbar-toggler
+{
+    background-color:#F5CBA7
+}
+.carousel-inner img
+{
+    width:100%;
+    height:100%;
+}
+.carousel-caption
+{
+    position:absolute;
+    top:50%;
+    transform:translateY(-90%);
+}
+.carousel-caption h1
+{
+    text-transform: uppercase;
+   font-size: 50px;
+}
+.bgimage
+{
+    background-image: url(edgar-castrejon-1SPu0KT-Ejg-unsplash.jpg);
+    background-repeat: no-repeat;
+    border-radius:50%;
+    height:200px;
+    width:200px;
+    background-size:cover;
+    background-position:center center center;
+}
+.bgimage2
+{
+    background-image: url(zachariah-hagy-MCKrW7fB7Pw-unsplash.jpg);
+    background-repeat: no-repeat;
+    border-radius:50%;
+    height:200px;
+    width:200px;
+    background-size:cover;
+    background-position:center center center;
+}
+
